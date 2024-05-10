@@ -8,9 +8,7 @@ The project aims to tackle energy wastage in industrial settings by implementing
 
 ## Simulation
 
-<video>
-  <source src="simulation.mp4" type="video/mp4">
-</video>
+https://github.com/cmd05/industrial-energy-conservation-model/assets/63466463/71af159b-1459-464c-8725-f5050e098c90
 
 ## Circuit Diagram
 
